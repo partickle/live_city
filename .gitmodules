@@ -1,0 +1,9 @@
+[submodule "Mobile"]
+	path = Mobile
+	url = https://github.com/partickle/live_city_mobile.git
+[submodule "Admin_panel"]
+	path = Admin_panel
+	url = https://github.com/partickle/live_city_admin_panel.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/partickle/live_city_backend.git
