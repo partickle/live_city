@@ -9,5 +9,5 @@
 ### Описание проекта:
 «Оживи город» – приложение, которое превращает обычные прогулки в увлекательное исследование своего города. Путешествуйте по культурным и историческим достопримечательностям, выполняя интересные задания. Соревнуйтесь с друзьями или объединяйтесь для совместных приключений. Откройте новый взгляд на ваш город!
 ## Сервисы
-* [Figma](https://www.figma.com/file/TnRB1ro3JN4BCYmXH1x1Ve/FitHub)
-* [Miro](https://miro.com/app/board/uXjVNh2G7-A=/)
+* [Figma](https://www.figma.com/design/U0qzVDIoDr4NHpiMjlhQ91/LiveCity)
+* [Miro](https://miro.com/app/board/uXjVLaSNUbE=/)
